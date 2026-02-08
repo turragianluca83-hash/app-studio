@@ -1,0 +1,5 @@
+{
+  "name": "EduMind: AI Study Planner",
+  "description": "Organizzatore di studio intelligente con integrazione Google e ClasseViva (simulata) e salvataggio locale.",
+  "requestFramePermissions": []
+}
